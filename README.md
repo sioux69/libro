@@ -38,8 +38,8 @@ To contribute, see the detailed [Contributing Guide](CONTRIBUTE.md).
 
 The book's source code, found in this repository, is kept synchronized with the print and ebook editions.
 
-The [develop branch](https://github.com/ethereumbook/ethereumbook/tree/develop), containing the most recent changes you see here is the in-progress drafting of Mastering Ethereum.
+The [develop branch](https://github.com/blockchainespana/BookBitcoin/tree/develop), containing the most recent changes you see here is the in-progress drafting of Bitcoin Book.
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Mastering Ethereum</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://blockchainespaña.com/" property="cc:attributionName" rel="cc:attributionURL">Bitcoin Book</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa">Creative Commons Attribution- 4.0 International License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Bitcoin Book</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://blockchainespaña.com/" property="cc:attributionName" rel="cc:attributionURL">Bitcoin Book</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa">Creative Commons Attribution- 4.0 International License</a>.
 
 The book will be released under CC-BY-SA license 
