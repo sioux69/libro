@@ -7,7 +7,7 @@ This book is developed collaboratively and openly, here on Github. We accept com
 The best way to contribute to this book is by making a pull request:
 
 1. Login with your Github account or create one now
-2. [Fork](https://github.com/ethereumbook/ethereumbook#fork-destination-box) the ethereumbook repository. Work on your fork.
+2. [Fork](https://github.com/blockchainespana/BookBitcoin#fork-destination-box) the bitcoinbook repository. Work on your fork.
 3. Create a new branch on which to make your change, e.g.
 `git checkout -b my_code_contribution`, or make the change on the `develop` branch.
 4. Edit the asciidoc file where you want to make a change or create a new asciidoc file in the `contrib` directory if you're not sure where your contribution might fit.
@@ -19,8 +19,8 @@ The best way to contribute to this book is by making a pull request:
 
 If you find a mistake and you're not sure how to fix it, or you don't know how to do a pull request, then you can file an Issue. Filing an Issue will help us see the problem and fix it.
 
-Create a [new Issue](https://github.com/ethereumbook/ethereumbook/issues/new) now!
+Create a [new Issue]( https://github.com/blockchainespana/BookBitcoin/issues/new) now!
 
 ## Thanks
 
-We are very grateful for the support of the entire Ethereum community. With your help, this will be a great book that can help thousands of developers get started and eventually "master" Ethereum. Thank you!
+We are very grateful for the support of the entire Bitcoin community. With your help, this will be a great book. Thank you!
