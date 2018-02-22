@@ -18,8 +18,8 @@ Here's what is available now:
 | Section | Progress |
 |-------|------|
 | [1. Prologo](prologo.asciidoc) | # |
-| [2. Mundo descentralizado: Cambio de Paradigma
-- Internet del valor : Salto Tecnológico y social](saltotec.asciidoc) | ################ |
+| [2. Mundo descentralizado: Cambio de Paradigma]
+| [- Internet del valor : Salto Tecnológico y social](saltotec.asciidoc) | ################ |
 | [Descentralización usando Blockchain](descentralizacion.asciidoc) | ############# |
 | [Sistemas IT: Distribuidos vs Computación descentralizada](sistemas-it.asciidoc) | ##########|
 
