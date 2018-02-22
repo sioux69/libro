@@ -17,11 +17,12 @@ Here's what is available now:
 
 | Section | Progress |
 |-------|------|
-| [Preface](preface.asciidoc) | ### |
-| [Glossary](glossary.asciidoc) | ### |
-| [What is Ethereum](what-is.asciidoc) | ## |
-| [Introduction](intro.asciidoc) | ############# |
-| 
+| [1. Prologo](prologo.asciidoc) | # |
+| [2. Mundo descentralizado: Cambio de Paradigma
+- Internet del valor : Salto Tecnológico y social](saltotec.asciidoc) | ################ |
+| [Descentralización usando Blockchain](descentralizacion.asciidoc) | ############# |
+| [Sistemas IT: Distribuidos vs Computación descentralizada](sistemas-it.asciidoc) | ##########|
+
 Jump in! Review, comment, suggest and contribute...
 
 # Contributing, reviewing and commenting
